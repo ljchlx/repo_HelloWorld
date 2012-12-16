@@ -1,1 +1,2 @@
 ljchlx create this text in thinkpad, /home/ljchlx/study/git/hellogithub/repo_HelloWorld, current local branch is master
+this line is added by branchDemo!
